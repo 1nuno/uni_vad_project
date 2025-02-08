@@ -1,0 +1,35 @@
+Temas para VAD:
+
+1 - (Quarterly) Business Review
+	
+	Motivação: Bastante aplicável ao mundo profissional.
+	
+2 - Áreas do cérebro humano e como funcionam
+	
+	Motivação: Ensino de medicina
+	Problema: Bastante challenging, e não sei onde arranjar um design para um cérebro onde se possa carregar nas zonas e ver as funções
+	
+3 - Visualizações de Finanças Pessoais
+
+	Motivação: É uma aplicação útil para o público no geral
+	
+4 - Visualização de Spotify top artists por país
+
+	Motivação: Simplesmente engraçado.
+	
+5 - Visualizações de dados cardíacos para escolhas de ação
+
+	Motivação: Aplicável ao campo de saúde, muitos datasets disponiveis.
+	
+6 - Airline Analysis
+
+	Motivação: Podemos usar viz's para perceber trends e relações em dados de voos comerciais.
+	
+7 - Stock Data Analysis
+
+	Motivação: Muito Aplicável ao mundo real, bastantes dados disponiveis, bastantes exemplos disponiveis também.
+	
+8 - Visualização de Temas de Noticias pelo mundo
+
+	Motivação: Simplesmente engraçado, dá para perceber o estado do mundo em cada parte.
+	Problema: Não é própriamente dificil recolher dados, mas deve ser custoso e demorado. 
