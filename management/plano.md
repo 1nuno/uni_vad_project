@@ -1,5 +1,5 @@
 # Deadlines
-03/03    04/04    19/05
+03/03    04/04    19/05 \
 VAD 1    VAD 2    VAD 3
 
 ## Esforço previsto para o projecto
